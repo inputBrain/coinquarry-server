@@ -1,0 +1,6 @@
+@Coinquarry.Host_HostAddress = http://localhost:5104
+
+GET {{Coinquarry.Host_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

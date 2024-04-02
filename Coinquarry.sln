@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coinquarry.Host", "Coinquarry.Host\Coinquarry.Host.csproj", "{653926C5-6289-47E3-99AA-4D60D4BB0880}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coinquarry.Database", "Coinquarry.Database\Coinquarry.Database.csproj", "{02C0DD58-898F-48C6-94AA-FA053FF64404}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coinquarry.Client", "Coinquarry.Client\Coinquarry.Client.csproj", "{0A8C8555-93DD-4D6F-87C8-B4619C01D954}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{653926C5-6289-47E3-99AA-4D60D4BB0880}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{653926C5-6289-47E3-99AA-4D60D4BB0880}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{653926C5-6289-47E3-99AA-4D60D4BB0880}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{653926C5-6289-47E3-99AA-4D60D4BB0880}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02C0DD58-898F-48C6-94AA-FA053FF64404}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02C0DD58-898F-48C6-94AA-FA053FF64404}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02C0DD58-898F-48C6-94AA-FA053FF64404}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02C0DD58-898F-48C6-94AA-FA053FF64404}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A8C8555-93DD-4D6F-87C8-B4619C01D954}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A8C8555-93DD-4D6F-87C8-B4619C01D954}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A8C8555-93DD-4D6F-87C8-B4619C01D954}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A8C8555-93DD-4D6F-87C8-B4619C01D954}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
